@@ -21,8 +21,6 @@ BuildRequires:  qt6-qttools-devel
 BuildRequires:  pkgconfig(wayland-client)
 BuildRequires:  pkgconfig(xkbcommon)
 
-Requires:       kf6-filesystem
-
 %description
 %{summary}.
 
